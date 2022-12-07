@@ -1,9 +1,0 @@
-.gallery {
-    width: 640px;
-    height: 360px;
-    margin-left: 300px;
-}
-.item img {
-    max-width: 100%;
-    height: auto;
-}
